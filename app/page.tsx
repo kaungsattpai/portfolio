@@ -37,7 +37,7 @@ const portfolioData = {
     {
       company: 'ZOTE BY FOCUS INNOVATION',
       position: 'Full Stack Developer',
-      duration: 'Oct 2020 — Apr 2025',
+      duration: 'Oct 2020 — Feb 2026',
       location: 'Yangon',
       projects: [
         {
